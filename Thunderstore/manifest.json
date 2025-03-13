@@ -1,0 +1,9 @@
+{
+  "name": "REPO_Ukrainian_Translation",
+  "version_number": "0.1.1",
+  "website_url": "https://github.com/Toliann/REPO-Ukrainian-Translation",
+  "description": "Ukrainian translation for R.E.P.O.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
